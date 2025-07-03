@@ -1607,3 +1607,69 @@ section {
   color: rgba(var(--default-color-rgb), 0.6);
 }
 
+
+
+
+/* CUSTOM CSS */
+
+.services .icon-box:hover {
+  background-color: #045367;
+  background: #045367;
+}
+
+#topbar .contact-info i {
+  color: #045367;
+}
+
+.navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover>a {
+  background: #045367;
+  color: white;
+}
+
+#hero .btn-get-started:hover {
+  background: #045367;
+  border-color: #045367;
+}
+
+.why-us .box:hover {
+  background: #045367;
+}
+
+.why-us .box span {
+  color: #045367;
+}
+
+.services .icon-box .icon {
+  background: #045367;
+}
+
+.services .icon-box:hover .icon i {
+ color: #045367 
+}
+
+.ratings i {
+  color: #045367;
+}
+
+.contact .info-box i {
+  color: #045367;
+  border-color: #045367 ;
+}
+
+.contact .php-email-form button[type=submit],
+.contact .php-email-form button[type=submit]:hover {
+  background: #045367;
+}
+
+#footer .footer-top .footer-info {
+  border-color: #045367;
+}
+
+a {
+  color: #045367;
+}
+
+.back-to-top {
+  background: #045367;
+}
+/* #045367 */

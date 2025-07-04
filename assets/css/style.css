@@ -1672,4 +1672,8 @@ a {
 .back-to-top {
   background: #045367;
 }
+
+.about .content ul i {
+  color: #045367
+}
 /* #045367 */

@@ -693,7 +693,7 @@ section {
   top: -8px;
   height: 100%;
   width: 100%;
-  background: rgba(204, 22, 22, 0.15);
+  background: #0453672c;
   transition: all 0.3s ease-out 0s;
   transform: translateZ(-1px);
   z-index: -1;
